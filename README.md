@@ -1,6 +1,6 @@
 # GennUNet - Abdominal Organ Segmentation
 
-- **Repository:** https://github.com/nicoalpis/GennUNet
+- **Model:** https://huggingface.co/nicoalpis/GennUNet
 - **Dataset:** https://doi.org/10.5281/zenodo.11635577
 - **Code Demo**: https://colab.research.google.com/drive/10JyssUcyqbZ9zWPop2fHwdAH5K9LpLe1?usp=sharing
 - **Paper:** http://hdl.handle.net/2117/413967
